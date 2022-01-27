@@ -1,0 +1,7 @@
+Adam,Smith,14,Wilcot Street,Bath,B5 5RT,1234,5000.00,,,,
+David,White,60,Holborn Viaduct,London,EC1A 2FD,1235,1160.0,,,,
+Alice,Churchil,5,Cardigan Street,Birmingham,B4 7BD,1236,20440.0,,,,
+Michael,James,house123,street123,city123,code123,1237,600,saving,regular savings account,0.1,500
+Andrei,Sator,house1,street1,city1,code1,1238,400,saving,Speciality savings account,0.05,400
+Stuart,Kane,house2,street2,city2,code2,1239,1500,current,premium current account,0,2000
+Luis,Mark,house7,street7,city7,code7,1240,-400.0,current,packaged current account,0,500
